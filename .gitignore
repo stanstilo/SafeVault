@@ -1,0 +1,19 @@
+.DS_Store
+bin/
+obj/
+*.db
+*.log
+*.user
+*.suo
+*.cache
+.vs/
+
+# Rider
+.idea/
+
+# Visual Studio temporary files
+*.tmp
+*.temp
+
+# local environment files
+.env
