@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLNVEL7GbIc=",
+  "success": true,
+  "projectFilePath": "/Users/stanleyokorie/Documents/Coursera_Backend/SafeVault/SafeVault.csproj",
+  "expectedPackageFiles": [
+    "/Users/stanleyokorie/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/microsoft.data.sqlite/8.0.1/microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/microsoft.data.sqlite.core/8.0.1/microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/stanleyokorie/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.6 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "/Users/stanleyokorie/Documents/Coursera_Backend/SafeVault/SafeVault.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/stanleyokorie/Documents/Coursera_Backend/SafeVault/SafeVault.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
